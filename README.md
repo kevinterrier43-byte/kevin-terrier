@@ -16,6 +16,10 @@ I'm a Chicago-based product and data analyst with 5+ years of experience buildin
 
 **[AI Job Search & Outreach Assistant](https://github.com/kevinterrier43-byte/ai-job-search-assistant)**: an AI agent workflow that screens job postings against my background and preferences, tailors applications, and drafts referral outreach, with source grounding, cross-model review, and human approval before anything is sent. In one company audit it narrowed ~500 postings to 3 worth applying to.
 
+### Currently building
+
+**Pebble (iOS, early prototype):** my first native iPhone app, a small, character-driven self-development app I'm designing and building in my spare time with Swift and SwiftUI. The code is private while it's in early development, and I'm happy to walk through it in conversation.
+
 ### Background
 
 M.S. Mechanical Engineering, Northwestern University · B.S. Engineering Mechanics, University of Illinois Urbana-Champaign
