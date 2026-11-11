@@ -15,6 +15,7 @@ I'm a Chicago-based product and data analyst with 5+ years of experience buildin
 ### Featured projects
 
 **[AI Job Search & Outreach Assistant](https://github.com/kevinterrier43-byte/ai-job-search-assistant)**: an AI agent workflow that screens job postings against my background and preferences, tailors applications, and drafts referral outreach, with source grounding, cross-model review, and human approval before anything is sent. In one company audit it narrowed ~500 postings to 3 worth applying to.
+
 **[AI Cheat Sheet Generator](https://github.com/kevinterrier43-byte/ai-cheat-sheet-generator)**: a Python tool that turns any topic into a designed, printable PDF cheat sheet. Gemini returns schema-validated JSON (Pydantic) with automatic model fallback, while code owns the layout and page fitting (Jinja2, Playwright).
 
 ### Currently building
